@@ -55,7 +55,7 @@ addButtons.forEach(button => {
     const name = card.querySelector('.product-name').innerText;
     const priceText = card.querySelector('.price').innerText;
 
-    // "$200" → 200 என்ற எண்ணாக மாற்றும்
+   
     const price = parseFloat(priceText.replace('$', ''));
 
 
@@ -69,20 +69,20 @@ addButtons.forEach(button => {
   });
 });
 
-// 👁️ Cart icon click → show/hide cart box
+
 cartIcon.addEventListener('click', (e) => {
   e.preventDefault();
   cartBox.classList.toggle('hidden');
   displayCart();
 });
 
-// ❌ Close button click → hide cart box
+
 closeBtn.addEventListener('click', (e) => {
   e.preventDefault();
   cartBox.classList.add('hidden');
 });
 
-// 🧾 Display cart items + total
+
 function displayCart() {
   cartItemsContainer.innerHTML = '';
 
