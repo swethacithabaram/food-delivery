@@ -1,0 +1,58 @@
+[
+    {
+    
+        "id":1,
+        "name":"hot spicy chilli rice",
+        "price":"200$",
+        "image":"image/chensef.jpg"
+     },
+    {
+        "id":2,
+        "name":"soup",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":3,
+        "name":"sushi",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":4,
+        "name":"hot chilli noodles",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":4,
+        "name":"cheese bun",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":5,
+        "name":"kadilak",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":6,
+        "name":"koren soup",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    },
+    {
+        "id":7,
+        "name":"sticky balls",
+        "price":"250$",
+        "image":"image/chensef.jpg"
+        
+    }
+]
